@@ -13,5 +13,9 @@ _lakehouse/
 notebooks/*.ipynb
 notebooks-spark/*.ipynb
 .pytest_cache/
+.ipython/
+.jupyter-config/
+.jupyter-data/
+.rendered/
 .venv*/
 _minio-data/
